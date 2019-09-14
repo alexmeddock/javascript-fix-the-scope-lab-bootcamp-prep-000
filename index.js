@@ -4,12 +4,6 @@ function myAnimal() {
   return animal
 }
 
-function myFunction(){
-  y = 2;
-  console.log(x);
-}
-
-
 function yourAnimal() {
   return animal
 }
